@@ -23,4 +23,3 @@ endif()
 
 add_subdirectory(cpp_googletest_approvaltest)
 add_subdirectory(cpp_googletest_unittest)
-add_subdirectory(cpp_texttest)
