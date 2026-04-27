@@ -1,4 +1,5 @@
 {
     "cmake.buildDirectory": "${workspaceFolder}/cpp/build",
-    "cmake.sourceDirectory": "${workspaceFolder}/cpp"
+    "cmake.sourceDirectory": "${workspaceFolder}/cpp",
+    "editor.formatOnSave": true
 }
